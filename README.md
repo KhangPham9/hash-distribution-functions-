@@ -1,4 +1,6 @@
 # hash-distribution-functions-
+To run the program download the files and run the r.sh file.
+
 This program uses the boost c++ library. To calculate the chi squared distribution and calculate the p value.
 
 This program demonstrates the distribution of five different hashing techniques by taking a word file of approximately 99171 words. The program will hash the strings into 16-bit ints.
