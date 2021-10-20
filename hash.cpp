@@ -1,3 +1,6 @@
+//Author: Khang Pham
+//Programing Language: C++
+
 #include <type_traits>
 #include "boost_1_61_0/boost/math/distributions/chi_squared.hpp"
 #include <cstdint>
